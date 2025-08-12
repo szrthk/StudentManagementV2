@@ -1,6 +1,7 @@
-# Hi this is sarthak and this document is by me for me and nothing else, I am building this to revice my learning and to learn more things. Also will be making this small project as PROD ready implementing everything.
-
-Step 1 - created StudentEntity.java inside student/model
+# StudentManagementV2 (PROD Ready)
+## Hi this is Sarthak (szrthk) and this document is by me for me and nothing else, I am building this to revice my learning and to learn more things. Also will be making this small project as PROD ready implementing everything.
+### Step 1
+1. Created StudentEntity.java inside student/model
 why - this contains all the parameters we require in context of the "Student". For example - id, name, age, email. 
 We used - 
 1. @NoArgsConstructor - because it automatically generates a constructor with no parameters.
@@ -16,9 +17,9 @@ A toString method
 Getter and setter methods for each field. 
 Also I get confused writing this bs, thanks to lombok.
 
-Step 2 - created StudentRepositery inside student/repo and extended it to mongorepositery
+2. Created StudentRepositery inside student/repo and extended it to mongorepositery
 why - gives us CRUD without writing boilerplate
 
-Step 3 - Configured application.properties and set up w mongodb
+3. Configured application.properties and set up w mongodb
 
-Step 4 - Created a test.java files w few params just to test mongodb is working properly or not.
+4. Created a test.java files w few params just to test mongodb is working properly or not.
