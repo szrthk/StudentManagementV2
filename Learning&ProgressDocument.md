@@ -1,5 +1,5 @@
 # StudentManagementV2 (PROD Ready)
-## Hi this is Sarthak (szrthk) and this document is by me for me and nothing else, I am building this to revice my learning and to learn more things. Also will be making this small project as PROD ready implementing everything.
+## Hi this is Sarthak (szrthk) and this document is by me for me and nothing else, I am building this to revise my learning and to learn more things. Also will be making this small project as PROD ready implementing everything.
 ### Step 1
 1. Created StudentEntity.java inside student/model
 why - this contains all the parameters we require in context of the "Student". For example - id, name, age, email. 
