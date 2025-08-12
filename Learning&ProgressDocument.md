@@ -23,3 +23,6 @@ why - gives us CRUD without writing boilerplate
 3. Configured application.properties and set up w mongodb
 
 4. Created a test.java files w few params just to test mongodb is working properly or not.
+
+### Step 2
+1. Created DTO StudentCreate
